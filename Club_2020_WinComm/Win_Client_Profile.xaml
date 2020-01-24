@@ -1,0 +1,12 @@
+﻿<Window x:Class="Club_2020_WinComm.Win_Client_Profile"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Club_2020_WinComm"
+        mc:Ignorable="d"
+        Title="Win_Client_Profile" Height="450" Width="773.017">
+    <Grid Margin="0,0,406.6,0">
+        <Ellipse HorizontalAlignment="Left" Height="100" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+    </Grid>
+</Window>
